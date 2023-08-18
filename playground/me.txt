@@ -1,3 +1,0 @@
-Name: Vamsi
-Skills: HTML, CSS, JS, React.js
-Email: mamillapallivamsi11@gmail.com
